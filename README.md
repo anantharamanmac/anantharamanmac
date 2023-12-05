@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on web dev and ui design<br>I'm currently learning react and angular<br>Ask me about anything <br>Fun to code
+I'm working on web dev and ui design<br>love to work on running projects <br>Fun to code
 
 
 ## 🌐 Socials:
